@@ -19,7 +19,7 @@ export const AcceptanceTestGuide: React.FC<AcceptanceTestGuideProps> = ({ onClos
     setActiveCaseId,
     setSelectedGraphNodeId
   } = useApp();
-
+ 
   const completedRiskReq = riskRequests.find(r => r.status === 'COMPLETED');
   const reportedFraudTxn = transactions.find(t => t.hasFraudReport);
   const activeFraudCase = fraudReports.find(f => f.status === 'UNDER_INVESTIGATION' || f.status === 'FREEZE_REQUESTED');
