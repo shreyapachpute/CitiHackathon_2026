@@ -12,7 +12,7 @@ import {
   LinkTypeKey,
   ScenarioId
 } from '../types';
-
+ 
 export const SEED_CUSTOMER: CustomerAccount = {
   id: 'ACC-4471-0921',
   name: 'Aarav Mehta',
