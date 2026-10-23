@@ -98,7 +98,7 @@ export const RoleSelectionModal: React.FC = () => {
         {/* Bank Investigator Experience Card (Rich Blue Gradient) */}
         <div className="group relative bg-gradient-to-br from-indigo-800 via-blue-800 to-slate-900 rounded-3xl border border-indigo-400/40 p-8 shadow-2xl transition-all duration-300 hover:shadow-indigo-500/20 hover:scale-[1.01] flex flex-col justify-between overflow-hidden">
           <div className="absolute top-0 right-0 w-48 h-48 bg-purple-400/10 rounded-full blur-2xl pointer-events-none" />
-
+ 
           <div className="relative z-10">
             <div className="flex items-center justify-between mb-6">
               <div className="h-14 w-14 rounded-2xl bg-white/15 border border-white/20 flex items-center justify-center text-white group-hover:scale-110 transition-transform shadow-md">
