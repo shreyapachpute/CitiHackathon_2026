@@ -3,7 +3,7 @@ import {
   RecipientPreset,
   RiskRequest,
   Transaction,
-  FundFlowNode,
+  FundFlowNode, 
   FundFlowEdge,
   FraudReport,
   FreezeRequest,

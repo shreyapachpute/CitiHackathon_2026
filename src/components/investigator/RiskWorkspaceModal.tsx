@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useApp } from '../../context/AppContext';
 import { RiskRequest, RiskLevel } from '../../types';
 import { formatINR, formatDateTime, getRiskBadgeClasses } from '../../utils/formatters';
-import {
+import { 
   X,
   ShieldAlert,
   Cpu,

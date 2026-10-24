@@ -4,7 +4,7 @@ import { FraudReport } from '../../types';
 import { formatINR, formatDateTime } from '../../utils/formatters';
 import { FreezeRequestModal } from './FreezeRequestModal';
 import {
-  X,
+  X, 
   AlertOctagon,
   FileText,
   GitBranch,
