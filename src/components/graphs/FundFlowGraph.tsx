@@ -300,7 +300,7 @@ export const FundFlowGraph: React.FC<FundFlowGraphProps> = ({ onOpenFreezeModalF
               className="bg-slate-800 border border-slate-700 rounded px-2 py-1 text-slate-200 text-xs"
             >
               <option value="all">All Transfers</option>
-              <option value="observed">Observed Only</option>
+              <option value="observed">observed Only</option>
               <option value="suspected">Suspected Links</option>
             </select>
           </div>
