@@ -18,7 +18,7 @@ export interface CustomerAccount {
   phone: string;
   bankName: string;
 }
-
+ 
 export interface RecipientPreset {
   id: string;
   accountNumber: string;
