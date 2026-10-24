@@ -175,4 +175,4 @@ export interface FreezeRequest {
   decisionTimestamp?: string;
   approvingAuthority?: string;
   disclaimer: string;
-}
+}  
